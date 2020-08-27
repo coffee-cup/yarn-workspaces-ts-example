@@ -1,0 +1,11 @@
+{
+  "name": "yarn-workspaces-ts-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "author": "Jake Runzer",
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ]
+}

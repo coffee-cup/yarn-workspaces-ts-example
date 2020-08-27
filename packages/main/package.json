@@ -1,0 +1,17 @@
+{
+  "name": "main",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "private": true,
+  "author": "Jake Runzer",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc --build"
+  },
+  "dependencies": {
+    "shared": "1.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.2"
+  }
+}
